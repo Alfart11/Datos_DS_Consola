@@ -1,0 +1,19 @@
+{
+  "name": "datos_pc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Arnold",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer-menu": "^1.0.0",
+    "systeminformation": "^5.11.15"
+  },
+  "devDependencies": {
+    "pkg": "^5.7.0"
+  }
+}
